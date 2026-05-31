@@ -1,0 +1,6 @@
+{
+  "name": "QR File Share",
+  "description": "High-performance wireless file sharing via high-speed animated QR code encoding and decoding.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
